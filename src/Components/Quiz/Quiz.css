@@ -61,4 +61,7 @@ hr{
         margin: 0 auto;
    margin-top: 20px;
     }
+    .container button{
+        width: 160px;
+    }
 } 
